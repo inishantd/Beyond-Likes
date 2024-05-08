@@ -1,1 +1,2 @@
-# Beyond-Likes
+# Beyond-Likes: A Comprehensive Analysis of Social \n
+The "Beyond Likes" research project investigates the impact of social media on students' academic performance through a quantitative analysis of 118 participants' demographics, academic history, social media usage, study habits, and perceptions. Initial findings highlight intricate connections, providing valuable insights for educators, policymakers, and students navigating the digital age.
